@@ -1,4 +1,4 @@
-## Test task from SimbirSoft
+## A test task from SimbirSoft related to docker and python
 
 ----
 **Task:** Using the app https://github.com/anfederico/Flaskex
