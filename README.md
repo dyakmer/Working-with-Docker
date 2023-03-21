@@ -10,7 +10,7 @@ Package this application in docker. Check that the container is running
 locally. Try running this packaged application via
 docker-compose.
 
-Working Dockerfile, docker-compose.upload yaml and a text document with notes
+Working Dockerfile, docker-compose.yaml and a text document with notes
 to your github repository.
 
 ---
